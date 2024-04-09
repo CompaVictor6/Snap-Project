@@ -63,7 +63,7 @@ function showCards() {
         cardContainer.appendChild(nextCard); // Add new card to the container
     }
 }
-
+//hello
 function editCardContent(card, newTitle, newImageURL) {
     card.style.display = "block";
 
